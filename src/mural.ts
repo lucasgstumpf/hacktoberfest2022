@@ -44,4 +44,10 @@ export const members: memberType[] = [
     tecnologias: "ReactNative, NodeJs.",
     sobreMim: "Oii, sou ex-membro de RE! Amo jogar e a faculdade ta atrapalhando",
     },
+    {
+    nome: "Lucas Gaspar",
+    diretoria: "Inovação e Eventos 🥳️🥳️;",
+    tecnologias: "Python, AWS",
+    sobreMim: "Salve! Sou o Lucas e só quero tentar me formar :-)",
+    },
 ];
